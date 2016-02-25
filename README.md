@@ -1,2 +1,4 @@
 # hello-world
 first repository
+
+My name is Gabriel Sparano I am 26 years old. I am an Italian software engineer. I have 1-2 year of experience. I have worked with several programming languages such as Java, Javascript, Php, SQL, I also know a little bit of Html and Css. I have used Struts, Hibernate, Symphony, MySql among others. I am currently working as a waiter here in Dublin because I wanted to improve my English, but now that I feel more confident about it I thought to give it a try in the IT world again. Maybe I don´t have a high level of experience but I am always eager to learn and improve my technical abilities. I am looking for a place where I could learn and grow as a professional but I also want to contribute as much as I can in your company. I don´t mind starting from the bottom, actually I personally think this way would be better to learn and to get to know your business. Thanks, Best Regards Gabriel
